@@ -3,7 +3,8 @@
 .DS_STORE/
 
 # React Build Directory
-build/
+# commented out for heroku deployment:
+# build/
 
 # Logs
 logs
